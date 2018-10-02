@@ -1,0 +1,43 @@
+#yellow:hover{
+    background-color: rgb(224, 131, 69);
+}
+#green:hover{
+    background-color: rgb(119, 173, 119);
+}
+#black:hover{
+    background-color: #6d6c6c;
+}
+#bule:hover{
+    background-color: rgb(78, 161, 145);
+}
+#pepp:hover{
+    background-color: rgb(173, 94, 219);
+}
+.login:hover{
+    background-color: rgb(63, 66, 129);
+}
+.headerright:hover{
+    background-color: rgb(63, 66, 129);
+}
+.headerleft li:hover{
+    background-color: rgb(63, 66, 129);
+}
+.zhengwentitle:hover{
+    color:rgb(111, 143, 128);
+}
+#paixuword:hover{
+    color:rgb(111, 143, 128);
+}
+#wenzhangtime li:hover{
+    color:rgb(111, 143, 128);
+}
+#ajax:hover{
+    background-color: rgb(79, 160, 143);
+}
+#html:hover{
+    background-color: rgb(221, 128, 66);
+}
+#css:hover{
+    background-color: rgb(112, 163, 112);
+    transform: scale()
+}
