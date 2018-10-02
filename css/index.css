@@ -146,7 +146,6 @@ header li{
     height: 480px;
     position: absolute;
     top: 1280px;
-    left: 308px;
     background-color: #fff;
     box-shadow: 0px 4px 5px rgba(0,0,0,0.2);
     z-index: 20;
